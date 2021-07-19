@@ -1,0 +1,2 @@
+- name: Push Docker Image to GCR
+  uses: kurkop/push-docker-gcr@v1.2.2
